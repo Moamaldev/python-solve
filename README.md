@@ -1,1 +1,1 @@
-# python-solve in solve-task-paython
+# solve-task-paython
